@@ -25,7 +25,7 @@ This project detects sharp sounds such as **hand claps** from an audio file usin
 
 ---
 
-## 🧩 Function & Module Descriptions
+##  Function & Module Descriptions
 
 | Function / Module               | Purpose |
 |--------------------------------|---------|
@@ -41,7 +41,7 @@ This project detects sharp sounds such as **hand claps** from an audio file usin
 
 ---
 
-## 📊 Visual Outputs
+##  Visual Outputs
 
 The notebook produces 3 useful plots:
 
